@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Facebook
+Comment=
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=celnaknmndcdcjcagffhbhciignkeokb
+Icon=/home/diego/Icones/facebook1.png
+Path=
+Terminal=false
+StartupNotify=false
